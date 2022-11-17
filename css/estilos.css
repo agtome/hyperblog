@@ -9,6 +9,22 @@ body
 
 }
 
+#cabecera 
+{
+    background: rgb(137, 137, 238);
+    color: white;
+    font-weight: bold;
+    padding: 0.5cm;
+    margin: 0;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0 8cm;
+}
+
 #container
 {
     width: 70%;
